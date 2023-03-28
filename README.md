@@ -1,7 +1,7 @@
 # chatwoot-unoapi
  Chatwoot com a unoapi
  </p>
-Para testar o chatwoot com a uno api você tera que ter o docker instalado.
+Para testar o chatwoot com a unoapi você tera que ter o docker instalado.
 <p>
 curl -L https://get.docker.com | sh
 </p>

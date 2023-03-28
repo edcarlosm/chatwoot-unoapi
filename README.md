@@ -35,3 +35,5 @@ Kabacorp2023@
 adicione sua caixa de entrada e pode testa a uno api via docker.
 </p>
 Não remomendo utilizar em produção. materia só para testes mesmo e demostração da eficiencia da unoapi
+</p>
+se gostou e quiser contribuir com um pix deixei meu qrcode na parte da logo do chatwoot. 

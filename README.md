@@ -1,7 +1,7 @@
 # chatwoot-unoapi
  Chatwoot com a unoapi
  </p>
-prar testar o chatwoot com a uno api você tera que ter o docker instalado.
+Para testar o chatwoot com a uno api você tera que ter o docker instalado.
 <p>
 curl -L https://get.docker.com | sh
 </p>
@@ -9,6 +9,10 @@ adicionar seu usuario ao grupo docker isso se você não estiver utilizando root
 </p>
 sudo usermod -aG docker $USER 
 </p>
+Download dos seguintes arquivos
+</p>
+wget https://github.com/edcarlosm/chatwoot-unoapi/blob/main/unoapi.tar.gz
+wget https://github.com/edcarlosm/chatwoot-unoapi/blob/main/chatwoot.tar.gz
 extraia os dois arquivos chatwoot e uno api
 </p>
 edite o .env com o ip da sua vps. recomendo não utilizar em produção mais se quiser é só coloca o endereço do seu chatwoot.

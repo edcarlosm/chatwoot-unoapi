@@ -29,9 +29,13 @@ docker network create --subnet=172.18.0.0/16 kabacorp
 </p>
 entre na pasta chatwoot que foi extraida e de o seguinte comando.
 </p>
+docker compose pull
+</p>
 docker compose up -d
 </p>
 entre na pasta uno que foi extraida e de o seguinte comando.
+</p>
+docker compose pull
 </p>
 docker compose up -d
 </p>

@@ -11,9 +11,9 @@ sudo usermod -aG docker $USER
 </p>
 Download dos seguintes arquivos
 </p>
-wget https://github.com/edcarlosm/chatwoot-unoapi/blob/main/unoapi.tar.gz
+git clone https://github.com/edcarlosm/chatwoot-unoapi.git
 </p>
-wget https://github.com/edcarlosm/chatwoot-unoapi/blob/main/chatwoot.tar.gz
+cd chatwoot-unoapi
 </p>
 extraia os dois arquivos chatwoot e uno api
 </p>
